@@ -11,4 +11,6 @@ you can run composer install (one time job only), simply run
 ```php vendor/bin/homestead make``` and it will generate a Homestead.yaml file
 which you will then tweak to suit your requirements (hostname etc).
 
+To start the Homestead virtual machine, run ```vagrant up```
+
 For more details on Homestead check the docs out at http://laravel.com/docs/5.1/homestead
